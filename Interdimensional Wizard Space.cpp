@@ -193,7 +193,7 @@ int main() {
 					break;
 				case 10:
 					dimension_10();
-					cout << name << " has summoned a Mutant Dodo\n" << endl;
+					cout << name << " has summoned a Mutant Dodo with the 10th dimension\n" << endl;
 					break;
 				case 61518 :
 					forbidden();
